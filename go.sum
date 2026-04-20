@@ -90,8 +90,10 @@ github.com/bsm/ginkgo/v2 v2.12.0/go.mod h1:SwYbGRRDovPVboqFv0tPTcG1sN61LM1Z4ARdb
 github.com/bsm/gomega v1.27.10 h1:yeMWxP2pV2fG3FgAODIY8EiRE3dy0aeFYt4l7wh6yKA=
 github.com/bsm/gomega v1.27.10/go.mod h1:JyEr/xRbxbtgWNi8tIEVPUYZ5Dzef52k01W3YH0H+O0=
 github.com/bwesterb/go-ristretto v1.2.3/go.mod h1:fUIoIZaG73pV5biE2Blr2xEzDoMj7NFEuV9ekS419A0=
-github.com/cactus/go-statsd-client/v5 v5.1.0 h1:sbbdfIl9PgisjEoXzvXI1lwUKWElngsjJKaZeC021P4=
-github.com/cactus/go-statsd-client/v5 v5.1.0/go.mod h1:COEvJ1E+/E2L4q6QE5CkjWPi4eeDw9maJBMIuMPBZbY=
+github.com/cactus/go-statsd-client/v5 v5.0.0 h1:KqvIQtc9qt34uq+nu4nd1PwingWfBt/IISgtUQ2nSJk=
+github.com/cactus/go-statsd-client/v5 v5.0.0/go.mod h1:COEvJ1E+/E2L4q6QE5CkjWPi4eeDw9maJBMIuMPBZbY=
+github.com/cactus/go-statsd-client/v6 v6.0.0 h1:Cua85wGzgbkNTKNGZ2fLU+Tc+yUaDhlxcCI9SvuPSRw=
+github.com/cactus/go-statsd-client/v6 v6.0.0/go.mod h1:rB9hA96R/roluLuuNFTdfnzs5XTUkMxRHgNDqfgTVGY=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/cespare/xxhash/v2 v2.1.1/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/cespare/xxhash/v2 v2.1.2/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
@@ -365,8 +367,6 @@ github.com/opentofu/tofudl v0.0.1 h1:r2uD4nxMnq0Qkzhh/C9Ldxjt+piTJi0R0C40Kf4d+a8
 github.com/opentofu/tofudl v0.0.1/go.mod h1:HeIabsnOzo0WMnIRqI13Ho6hEi6tu2nrQpzSddWL/9w=
 github.com/pelletier/go-toml/v2 v2.2.4 h1:mye9XuhQ6gvn5h28+VilKrrPoQVanw5PMw/TB0t5Ec4=
 github.com/pelletier/go-toml/v2 v2.2.4/go.mod h1:2gIqNv+qfxSVS7cM2xJQKtLSTLUE9V8t9Stt+h56mCY=
-github.com/petergtz/pegomock/v4 v4.3.0 h1:GPHCrVK0Ao63qTBBLLpcI1jafy13S1KTsLbC/8jPFSU=
-github.com/petergtz/pegomock/v4 v4.3.0/go.mod h1:MWuKPa+Q58c+MtwRQKimUzOdOmrDMV71BOzYB7y0ukI=
 github.com/petergtz/pegomock/v4 v4.4.0 h1:JjK1IEXJ5DnNe9TRjE+UoIg6xPC+wQVkkXhJOh39rNw=
 github.com/petergtz/pegomock/v4 v4.4.0/go.mod h1:MWuKPa+Q58c+MtwRQKimUzOdOmrDMV71BOzYB7y0ukI=
 github.com/pjbgf/sha1cd v0.3.2 h1:a9wb0bp1oC2TGwStyn0Umc/IGKQnEgF0vVaZ8QF8eo4=
